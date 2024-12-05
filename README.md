@@ -14,12 +14,6 @@ Visualize Data for better understanding:Utilize Excel and Powerbi tools to prese
 
 Provide Contextual Analysis:Offer Contextual explanation for GDP trend and growth rate, linking economic events,climate and seasonality, and policies to their potential impacts on the GDP
 
-
-
-
-
-
-
 ## Tools
 -Power Bi
 -Excel
@@ -36,20 +30,20 @@ Provide Contextual Analysis:Offer Contextual explanation for GDP trend and growt
 <a href="https://www.nigerianstat.gov.ng/elibrary/read/1241549">Nigerian Bureau of Statistics</a>
 
 
-##Data Model
+## Data Model
 This data was first nomalized on Excel and transformed in power query, the raw data was split into nominal and real GDP and the indirect tax was separated.A date table was also created in Power Query which was used to calculate the time series.
 
 ![Data Model](https://github.com/seancarter133/Demo-GDP-Analysis-in-Nigeria/blob/main/Assets/gdp_portfolio_data_model.jpg)
 
-##Dashboard Insights
+## Dashboard Insights
 
-##Overwiew
+## Overwiew
 
-##GDP by sector Analysis
+## GDP by sector Analysis
 
-##Recommendations 
+## Recommendations 
 
-##Download
+## Download
 
 This Repository details the analysis and Visualization of GDP in Nigeria from 2020-2024
 
