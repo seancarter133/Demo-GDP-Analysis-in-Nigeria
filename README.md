@@ -37,16 +37,25 @@ This data was first nomalized on Excel and transformed in power query, the raw d
 
 ## Dashboard Insights
 The Dashboard gives insight about the GDP of Nigeria from 2020-2024
+-The current quarter GDP is N18.29 trillion following a 0.11% increase against the previous quarter
+-Against the same quarter last year, real GDP was ﻿higher﻿ by ﻿3.19%﻿
 
 
 ## Overwiew
-![Dashboard](https://github.com/seancarter133/Demo-GDP-Analysis-in-Nigeria/blob/main/Assets/gdp_portfolio_main.jpg)
+![Dashboard Overview](https://github.com/seancarter133/Demo-GDP-Analysis-in-Nigeria/blob/main/Assets/gdp_portfolio_main.jpg)
 
 ## GDP by sector Analysis
 ![GDP by Sector](https://github.com/seancarter133/Demo-GDP-Analysis-in-Nigeria/blob/main/Assets/gdp_porfolio_by_sector.jpg)
 ## Recommendations 
+-Agriculture(crop production) is always a major factor in the declining trend of the GDP cause it experiences seasonality
+-Trade is also experiencing seasonality 
+-Sub-sectors to be mindful of in terms of declining trend in GDP
+1.Trade
+2.Real Estate
+3.Informatiion/Communication
 
 ## Download
+https://github.com/seancarter133/Demo-GDP-Analysis-in-Nigeria/blob/main/Assets/Demo-GDP-Analysis-in-Nigeria-2020-to-2024.pbix
 
 This Repository details the analysis and Visualization of GDP in Nigeria from 2020-2024
 
