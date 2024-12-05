@@ -55,7 +55,9 @@ The Dashboard gives insight about the GDP of Nigeria from 2020-2024
 3.Informatiion/Communication
 
 ## Download
-https://github.com/seancarter133/Demo-GDP-Analysis-in-Nigeria/blob/main/Assets/Demo-GDP-Analysis-in-Nigeria-2020-to-2024.pbix
+<a href="https://github.com/seancarter133/Demo-GDP-Analysis-in-Nigeria/blob/main/Assets/Demo-GDP-Analysis-in-Nigeria-2020-to-2024.pbix">Download File</a>
+
+
 
 This Repository details the analysis and Visualization of GDP in Nigeria from 2020-2024
 
