@@ -36,7 +36,9 @@ This data was first nomalized on Excel and transformed in power query, the raw d
 ![Data Model](https://github.com/seancarter133/Demo-GDP-Analysis-in-Nigeria/blob/main/Assets/gdp_portfolio_data_model.jpg)
 
 ## Dashboard Insights
+The Dashboard gives insight about the GDP of Nigeria from 2020-2024
 
+![Dashboard](https://github.com/seancarter133/Demo-GDP-Analysis-in-Nigeria/blob/main/Assets/gdp_portfolio_main.jpg)
 ## Overwiew
 
 ## GDP by sector Analysis
