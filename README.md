@@ -27,7 +27,7 @@ Provide Contextual Analysis:Offer Contextual explanation for GDP trend and growt
 ## Techniques and Skills
 -Data normalization
 -Data Modelling
--Data Transformation with Power Quary
+-Data Transformation with Power Query
 -Data Visualization
 -Booksmarks
 -Report Automation
@@ -37,6 +37,9 @@ Provide Contextual Analysis:Offer Contextual explanation for GDP trend and growt
 
 
 ##Data Model
+This data was first nomalized on Excel and transformed in power query, the raw data was split into nominal and real GDP and the indirect tax was separated.A date table was also created in Power Query which was used to calculate the time series.
+
+![Data Model](https://github.com/seancarter133/Demo-GDP-Analysis-in-Nigeria/blob/main/Assets/gdp_portfolio_data_model.jpg)
 
 ##Dashboard Insights
 
