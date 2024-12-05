@@ -21,10 +21,20 @@ Provide Contextual Analysis:Offer Contextual explanation for GDP trend and growt
 
 
 ## Tools
+-Power Bi
+-Excel
 
 ## Techniques and Skills
+-Data normalization
+-Data Modelling
+-Data Transformation with Power Quary
+-Data Visualization
+-Booksmarks
+-Report Automation
 
 ## Data Sources
+<a href="https://www.nigerianstat.gov.ng/elibrary/read/1241549">Nigerian Bureau of Statistics</a>
+
 
 ##Data Model
 
