@@ -48,7 +48,9 @@ The Dashboard gives insight about the GDP of Nigeria from 2020-2024
 ![GDP by Sector](https://github.com/seancarter133/Demo-GDP-Analysis-in-Nigeria/blob/main/Assets/gdp_porfolio_by_sector.jpg)
 ## Recommendations 
 -Agriculture(crop production) is always a major factor in the declining trend of the GDP cause it experiences seasonality
+
 -Trade is also experiencing seasonality 
+
 -Sub-sectors to be mindful of in terms of declining trend in GDP
 
 1.Trade
